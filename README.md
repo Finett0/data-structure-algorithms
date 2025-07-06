@@ -1,1 +1,5 @@
-# Repository of studies on algorithms and data structures in ruby
+# Repositorio de estudos - Estrutura de dados e algoritmos aplicados em Ruby
+
+# Big O
+
+https://future-tanker-150.notion.site/Big-O-Notation-2270f839a75b800a9628c3c42b1e2603
